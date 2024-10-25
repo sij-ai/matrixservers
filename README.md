@@ -19,6 +19,14 @@ Website: [matrixservers.net](https://matrixservers.net)
 - Create an issue with the [Add server](https://github.com/Atreatis/matrix-servers/issues/new?assignees=Atreatis&labels=&template=add-server.md&title=%5BADD%5D) issue template.
 
 ## Matrix Server List
+
+**Server name:** ENVESQ
+**Domain:** https://env.esq
+**Maintainer:** @sij:env.esq  
+**Founded:** 23-10-2024 
+**Web client:** [ENV.ESQ](https://env.esq)  
+**Description:** ENVESQ is a Matrix server primarily intended for lawyers, journalists, activists, scientists, educators, and others working in evironmental law, conservation, climate justice, and adjacent spaces. ENVESQ augments [Earth.Law](https://earth.law) but doesn’t require membership there.
+
 **Server name:** Nova IM  
 **Domain:** https://novaim.com  
 **Maintainer:** @atreatis:novaim.com  
